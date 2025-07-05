@@ -1,4 +1,4 @@
-# 🧠 AHA SYSTEM - Employee Activity Tracker System
+# AHA SYSTEM - Employee Activity Tracker System
 
  **This System** is a real-time AI-powered monitoring solution developed in **Python** using **OpenCV**, **MediaPipe**, and **face_recognition**. It is designed for **corporate environments**, **academic institutions**, or **R&D labs** where employee or student behavior, presence, and engagement need to be tracked efficiently.
 
